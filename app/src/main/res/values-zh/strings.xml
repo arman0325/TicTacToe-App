@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">過三關</string>
+    <string name="restart">重新開始</string>
+    <string name="about">關於</string>
+    <string name="settings">設定</string>
+    <string name="button">雙人模式</string>
+    <string name="button2">一人模式</string>
+    <string name="button3">分數</string>
+    <string name="button4">雙層過三關2P</string>
+    <string name="button5">雙層過三關1P</string>
+    <string name="button_about">關於</string>
+
+    <string name="w31p">Y你是 玩家1 [O]</string>
+
+    <string name="Rank">排名</string>
+    <string name="Name">名稱</string>
+    <string name="Score">分數</string>
+    <string name="Time">時間</string>
+    <string name="Logo">標圖</string>
+    <string name="aboutText">井字遊戲有四種遊戲模式\n
+         \t1. 一人模式\n
+         \t2. 兩人模式\n
+         \t3. 雙層過三關2P (兩人模式)\n
+         \t4. 雙層過三關1P (一人模式)
+         \n\n讓我們訓練您的邏輯思維能力！</string>
+    <string name="developer">開發者</string>
+    <string name="oneplayerTitle">關於一人模式</string>
+    <string name="onePlayerAbout">
+        這是對抗機器人的模式
+        \n\n每當他們贏得比賽時，玩家分數就會增加1
+        \n\n只要玩家輸掉比賽，就會顯示結果對話框，顯示比分和遊玩時間
+        \n\n玩家可以決定是否願意將自己的名字輸入排行榜
+    </string>
+    <string name="twoplayerTitle">關於雙人模式</string>
+    <string name="twoPlayerAbout">
+        兩人遊戲模式是玩家對玩家
+        \n\n兩位玩家將輪流玩遊戲
+        \n\n菜單中將提供重新啟動選項，供玩家在需要時重新啟動遊戲
+    </string>
+    <string name="win3Title">關於雙層過三關2P</string>
+    <string name="win3">
+        連續3次獲勝2P模式也類似於兩個玩家模式。
+        \n\n但是它包括兩層井字遊戲。
+    </string>
+    <string name="win3Title1p">關於雙層過三關1P</string>
+    <string name="win31p">
+        連續3次獲勝1P模式也類似於一個玩家模式。
+        \n\n但是它包括兩層井字遊戲。
+    </string>
+</resources>

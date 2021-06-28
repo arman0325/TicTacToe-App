@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory
+        android:title="Settings">
+
+        <SwitchPreference
+            android:key="@string/audio"
+            android:title="Audio"
+            android:summary="On/Off"
+            android:defaultValue="@bool/audio_enable" />
+
+        <ListPreference
+            android:key="@string/key"
+            android:title="Song selection"
+            android:summary="Select your favourite background music"
+            android:entries="@array/mp3"
+            android:entryValues="@array/mp3"
+            android:defaultValue="@string/mp3_default"
+            android:negativeButtonText=""
+            />
+
+    </PreferenceCategory>
+</PreferenceScreen>

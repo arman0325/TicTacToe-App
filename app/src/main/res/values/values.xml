@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="audio">audio</string>
+    <bool name="audio_enable">true</bool>
+
+    <string name="mp3_default">CanCan</string>
+    <string name="key">mp3</string>
+    <string-array name="mp3">
+        <item>CanCan</item>
+        <item>CoffeeStains</item>
+        <item>Silver</item>
+        <item>WishYouComeTrue</item>
+        <item>SecretConversations</item>
+    </string-array>
+
+    <string name="theme">theme</string>
+    <string name="theme_default">White</string>
+    <string-array name="color_names">
+        <item>Black</item>
+        <item>White</item>
+
+    </string-array>
+
+</resources>
